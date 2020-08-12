@@ -4,7 +4,7 @@ This is a multiline comment
 /* content */
 
 This is a singleline comment
-//conten
+//content
 Author : Sawant
 
 document.write("This is an external js2");
