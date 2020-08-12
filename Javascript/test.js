@@ -1,7 +1,11 @@
 
 
 This is a multiline comment
-Author : Harry
+/* content */
+
+This is a singleline comment
+//conten
+Author : Sawant
 
 document.write("This is an external js2");
 document.getElementById('th').innerHTML = "This is a para";
@@ -37,7 +41,7 @@ document.write("sqrt(36) = ", Math.sqrt(36),"<br>");
 
 String Functions
 
-var str1 = "CodeWithHarry";
+var str1 = "BapusoSawant";
 document.write(str1.length,"<br>" );
 document.write(str1.indexOf("With"),"<br>" );
 document.write(str1.toLowerCase(),"<br>" );
@@ -122,12 +126,12 @@ document.write(books[3]);
 
 
 
-function harry(){
+function demo(){
 
-	document.write("We are calling harry");
-	console.log("We have executed harry function");
+	document.write("We are calling demo");
+	console.log("We have executed demo function");
 
 
 }
 
-harry();
+demo();
